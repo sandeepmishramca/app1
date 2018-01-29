@@ -1,0 +1,19 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging C:\Users\564151\IdeaProjects\app1\target\scala-2.11\app1_2.11-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Context$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\564151\IdeaProjects\app1\target\scala-2.11\classes\Context$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Context.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\564151\IdeaProjects\app1\target\scala-2.11\classes\Context.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	hw.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\564151\IdeaProjects\app1\target\scala-2.11\classes\hw.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Context$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\564151\IdeaProjects\app1\target\scala-2.11\classes\Context$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Context$$anonfun$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\564151\IdeaProjects\app1\target\scala-2.11\classes\Context$$anonfun$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Context$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\564151\IdeaProjects\app1\target\scala-2.11\classes\Context$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	hw$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\564151\IdeaProjects\app1\target\scala-2.11\classes\hw$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Context$$anonfun$getOrdersStatus$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\564151\IdeaProjects\app1\target\scala-2.11\classes\Context$$anonfun$getOrdersStatus$1.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
